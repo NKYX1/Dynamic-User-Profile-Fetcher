@@ -33,12 +33,4 @@ This project demonstrates how to use React hooks (`useEffect` and `useState`) to
    ```
    npm start
    ```
-
-## 📝 Homework Requirements Met
-
-- ✅ Display "Loading..." during data fetching
-- ✅ Show user's name, email, and profile picture on success
-- ✅ Show error message on API failure
-- ✅ Functional "Fetch New User" button
-- ✅ useEffect properly used for fetching and refresh
 # Dynamic-User-Profile-Fetcher
